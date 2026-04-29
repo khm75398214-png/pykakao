@@ -998,3 +998,8 @@ class kakaotalk:
 
     def pkcs7_decode(self, data):
         return data[:-int(hexlify(data[-1]), 16)]
+
+import time
+
+while True:
+    time.sleep(10)
