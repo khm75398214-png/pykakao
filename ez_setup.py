@@ -21,7 +21,7 @@ import tarfile
 import optparse
 import subprocess
 
-from distutils import log
+from setuptools import log
 
 try:
     from site import USER_SITE
