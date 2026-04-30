@@ -16,7 +16,7 @@ setup(
         'rsa>=3.1.2',
     ],
     author='h4lla',
-    author_email='hallazzang@gmail.com',
+    author_email='kimgaon141414@gmail.com',
     license='MIT',
     url='https://github.com/HallaZzang/pykakao',
 )
